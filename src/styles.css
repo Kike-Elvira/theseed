@@ -14,8 +14,7 @@
 
 @font-face {
   font-family: "Lato";
-  src: url("./assets/fonts/Lato/Lato-Regular.ttf")
-    format("truetype");
+  src: url("./assets/fonts/Lato/Lato-Regular.ttf") format("truetype");
 }
 
 /* reset-css */
